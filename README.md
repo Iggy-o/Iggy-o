@@ -1,4 +1,4 @@
-# 👋 Hi ${person_name}, I'm Ighoise
+# 👋  Welcome to my little corner of the internet
 
 <!--
 **Iggy-o/Iggy-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
