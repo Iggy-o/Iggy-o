@@ -3,7 +3,7 @@
 <img src="https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png" alt="Thanks">
 
 
-### 🎇Take a look at my portfolio of projects below or at <a href=iggy-o.github.io>`iggy-o.github.io`</a> 🎇
+# Take a look at my portfolio of projects below or at <a href=iggy-o.github.io>`iggy-o.github.io`</a>
 
 <!--
 VideoId = OM_JxAR_l8I
