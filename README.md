@@ -1,5 +1,5 @@
 # 👋 THANKS FOR VISITING MT LITTLE CORNER OF THE INTERNET
-![alt text](https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png "Thank you so much ♡")
+[![alt text](https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png "Thank you so much ♡")](#)
 # Take a look at my portfolio below or at <a href="https://iggy-o.github.io">`iggy-o.github.io`</a>
 
 <!--
