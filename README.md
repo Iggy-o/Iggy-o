@@ -1,4 +1,4 @@
-# ✨THANKS FOR VISITING MT LITTLE CORNER OF THE INTERNET
+# 👋 THANKS FOR VISITING MT LITTLE CORNER OF THE INTERNET
 
 <img src="https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png" alt="Thanks">
 
