@@ -1,7 +1,7 @@
 # 👋 ✨Welcome to my little corner of the internet✨
 
 ### Thank you for checking out my portfolio
-<img src="thankyou.png" alt="Thanks">
+<img src="https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png" alt="Thanks">
 
 
 ### 🎇Take a look at my portfolio of projects below or at <a href=iggy-o.github.io>`iggy-o.github.io`</a> 🎇
