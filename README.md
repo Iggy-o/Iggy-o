@@ -1,6 +1,5 @@
-# 👋 ✨Welcome to my little corner of the internet✨
+# THANKS FOR VISITING MT LITTLE CORNER OF THE INTERNET
 
-### Thank you for checking out my portfolio
 <img src="https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png" alt="Thanks">
 
 
