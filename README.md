@@ -1,7 +1,6 @@
 # 👋 THANKS FOR VISITING MY LITTLE CORNER OF THE INTERNET
 [![alt text](https://github.com/Iggy-o/Iggy-o/raw/master/thankyou.png "Thank you so much ♡")](https://github.com/Iggy-o)
-# Take a look at my portfolio below or at 
-<!--<a href="https://iggy-o.github.io" target="_blank">`iggy-o.github.io`</a>-->
+# Take a look at my portfolio below <!--or at <a href="https://iggy-o.github.io" target="_blank">`iggy-o.github.io`</a>-->
 
 <!--
 VideoId = OM_JxAR_l8I
